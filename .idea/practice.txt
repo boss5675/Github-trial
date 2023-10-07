@@ -3,3 +3,7 @@ color
 2.White
 3.Purple
 4.Green
+2.Yellow
+3.Pink
+4.White
+
